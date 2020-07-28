@@ -1,0 +1,12 @@
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\DemoLibrary.dll.config
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Adarsh\source\repos\CallingAnApiDemo_Start\DemoLibrary\obj\Debug\DemoLibrary.pdb
